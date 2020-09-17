@@ -1,0 +1,18 @@
+{
+  "main.css": "/Emp-dashboard/static/css/main.50bd0012.chunk.css",
+  "main.js": "/Emp-dashboard/static/js/main.a74cfa18.chunk.js",
+  "main.js.map": "/Emp-dashboard/static/js/main.a74cfa18.chunk.js.map",
+  "runtime~main.js": "/Emp-dashboard/static/js/runtime~main.27fc0c2d.js",
+  "runtime~main.js.map": "/Emp-dashboard/static/js/runtime~main.27fc0c2d.js.map",
+  "static/js/2.939906f1.chunk.js": "/Emp-dashboard/static/js/2.939906f1.chunk.js",
+  "static/js/2.939906f1.chunk.js.map": "/Emp-dashboard/static/js/2.939906f1.chunk.js.map",
+  "index.html": "/Emp-dashboard/index.html",
+  "precache-manifest.a1074be71d6133bba32b1e3c2882cc87.js": "/Emp-dashboard/precache-manifest.a1074be71d6133bba32b1e3c2882cc87.js",
+  "service-worker.js": "/Emp-dashboard/service-worker.js",
+  "static/css/main.50bd0012.chunk.css.map": "/Emp-dashboard/static/css/main.50bd0012.chunk.css.map",
+  "static/media/Assigned.svg": "/Emp-dashboard/static/media/Assigned.6aaf5764.svg",
+  "static/media/Pending.svg": "/Emp-dashboard/static/media/Pending.da5e1feb.svg",
+  "static/media/WCheckmark.svg": "/Emp-dashboard/static/media/WCheckmark.2b8fd602.svg",
+  "static/media/avatar.png": "/Emp-dashboard/static/media/avatar.fc047347.png",
+  "static/media/clock.svg": "/Emp-dashboard/static/media/clock.28b7a594.svg"
+}
