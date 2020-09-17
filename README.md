@@ -1,10 +1,10 @@
 # Emp-dashboard
  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To Run this App you must Node.js Installed in your local machine. Then go to command prompt and 
+change directory to emp-dashboard folder and run `npm start` command
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
