@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6908ad05b750564db039",
-    "url": "/Emp-dashboard/static/css/main.50bd0012.chunk.css"
+    "revision": "92e6473a3f7965f1b474",
+    "url": "/Emp-dashboard/static/css/main.db7e3994.chunk.css"
   },
   {
-    "revision": "6908ad05b750564db039",
-    "url": "/Emp-dashboard/static/js/main.a74cfa18.chunk.js"
+    "revision": "92e6473a3f7965f1b474",
+    "url": "/Emp-dashboard/static/js/main.16ebe6af.chunk.js"
   },
   {
     "revision": "47d9c2ea3126652933b6",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/Emp-dashboard/static/media/Pending.da5e1feb.svg"
   },
   {
-    "revision": "aaa950a0dc5f5bd8ac9725480fb5b884",
+    "revision": "c2cdf21d4880a9360691923c2f684099",
     "url": "/Emp-dashboard/index.html"
   }
 ];
